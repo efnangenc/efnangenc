@@ -1,5 +1,7 @@
 ## Hi there 👋
+![Proje Görüntüsü](https://i.pinimg.com/564x/0f/77/ee/0f77ee0f6e8639f9aa20964536613f81.jpg)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/efnangenc)
 <!--
 **efnangenc/efnangenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
